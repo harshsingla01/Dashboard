@@ -1,0 +1,9 @@
+{
+  "Tower" : "Commercial",
+   "Teams" :  
+    [
+   	 {"name" : "Treasury", "applications" : ["MTSQA" , "aMM", "Test"]},
+   	 {"name" : "CommercialLending", "applications" : ["CL1" , "CL2"]},
+   	 {"name" : "Transmissions" , "applications" : ["Tr1" , "Tr2" ]}
+   	]
+}
